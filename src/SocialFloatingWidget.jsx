@@ -10,33 +10,28 @@ import {
 
 const SocialFloatingWidget = () => {
   const socials = [
-    { 
-      icon: <IoLogoYoutube size={18} />, 
-      link: "https://youtube.com", 
-      bgColor: "bg-[#FF0000]", 
-      label: "YouTube" 
-    },
+    
     { 
       icon: <IoLogoInstagram size={18} />, 
-      link: "https://instagram.com", 
+      link: "https://www.instagram.com/whimsy_bead", 
       bgColor: "bg-[#E1306C]", 
       label: "Instagram" 
     },
     { 
       icon: <IoLogoFacebook size={18} />, 
-      link: "https://facebook.com", 
+      link: "https://www.facebook.com/profile.php?id=61560668793073&rdid=YpRbqK108DfLWXYy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19U4nAgGWq%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio#", 
       bgColor: "bg-[#1877F2]", 
       label: "Facebook" 
     },
     { 
       icon: <IoLogoTiktok size={18} />, 
-      link: "https://tiktok.com", 
+      link: "https://www.tiktok.com/@whimsy_beads1?_r=1&_t=ZS-95qEELE4TGX&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGneCF6UdoxJOBkHkZUvJU3lHmLFS7kSB84u3ELxvZrG4LWl0BENnIvlD0aWMI_aem_6LN0O2tiajuaLy1VkdMQ1g", 
       bgColor: "bg-[#000000]", 
       label: "TikTok" 
     },
     { 
       icon: <IoLogoWhatsapp size={18} />, 
-      link: "https://wa.me/yournumber", 
+     link: "https://wa.me/923196976539?text=Hi!%20I%20want%20to%20order%20from%20Whimsy%20Beads",
       bgColor: "bg-[#25D366]", 
       label: "WhatsApp" 
     },
